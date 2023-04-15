@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.menu{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    background-color: aqua;
+    width: 34%;
+    margin: 0;
+}
+ul ol{
+    background-color: red;
+    margin: 0;
+    font-size: 15px;
+    width: 34%;
+}
+img{
+    cursor: pointer;
+    padding-left: 40px;
+}
